@@ -1,0 +1,6 @@
+framework module LGSDK {
+  umbrella header "LGSDK.h"
+
+  export *
+  module * { export * }
+}
